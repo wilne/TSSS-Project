@@ -1,8 +1,8 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Include your database connection here
-    $dbHost = 'localhost';
-    $dbUsername = 'root';
+    $dbHost = 'sql204.infinityfree.com';
+    $dbUsername = 'if0_35269559';
     $dbPassword = '';
     $dbName = 'web';
 
